@@ -1,5 +1,8 @@
 _repo: Les-vignes-du-Seigneur_63470
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63470-h/images/cover.jpg
 creator:
   author:
     agent_name: Monselet, Charles
@@ -11,6 +14,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Charles_Monselet
     - https://en.wikipedia.org/wiki/Charles_Monselet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63470#Les-vignes-du-Seigneur
 gutenberg_issued: '2020-10-16'
 gutenberg_type: Text
 identifiers:
